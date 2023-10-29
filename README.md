@@ -1,3 +1,3 @@
 # basics
 
-This respository will have basic python and C++ programs
+This respository will have basic Java and Python programs
