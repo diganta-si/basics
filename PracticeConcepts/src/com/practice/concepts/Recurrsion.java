@@ -1,9 +1,7 @@
 package com.practice.concepts;
 
-import java.util.Scanner;
-
 public class Recurrsion {
-
+/*
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		int n = s.nextInt();
@@ -20,7 +18,7 @@ public class Recurrsion {
 			new PrintFibonacci().fibonacci(n - 2);
 		}
 	}
-
+*/
 }
 
 class PrintFibonacci {
